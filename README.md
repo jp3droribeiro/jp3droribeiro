@@ -23,28 +23,16 @@
 ---
 
 ### Tecnologias e Ferramentas
+  <div align="center">
+    <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,mysql,blender" /></a>
+  </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+ 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/QuTiP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 ---
-
-- 
-<div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,mysql,blender" /></a>
-</div>
-
----
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### 🏅 Conquistas
@@ -54,7 +42,7 @@
 ---
 
 ### Onde me encontrar
-
+jdutraaraujoribeiro@gmail.com
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jp3droribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
