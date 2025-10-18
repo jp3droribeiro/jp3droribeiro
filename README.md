@@ -69,9 +69,6 @@
   <a href="https://jp3droribeiro.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="c3posource.gif" width="200" alt="c3po"/>
-</p>
 
 <p align="center">
   <img src="c3posource.gif" width="200" alt="GIF 1" />
