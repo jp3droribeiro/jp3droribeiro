@@ -26,7 +26,7 @@
 <div >
   <img src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,react,tailwind,dart,flutter,git,github,mysql,blender" />
 </div>
-
+<br/>
 
 <div>
   <!-- Data Science -->
