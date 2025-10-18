@@ -9,6 +9,9 @@
   <img src="https://github.com/jp3droribeiro/jp3droribeiro/blob/main/lightsaber.svg" width="600" alt="Lightsaber"/>
 </p>
 
+<p align="center">
+  <img src="assets/lightsaber.gif" width="200" alt="Lightsaber"/>
+</p>
 
 
 
