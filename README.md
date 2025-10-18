@@ -1,4 +1,4 @@
-<h1>Hi there i'm João Pedro Ribeiro </h1>
+<h1>Hi there, i'm João Pedro Ribeiro </h1>
 
 <pre >
     Developer <br/>
@@ -24,7 +24,7 @@
 
 <h2><span style="font-family: 'Courier New', monospace;">Skills and Tools</span></h2>
 
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,mysql,asure,blender" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?ipython,html,css,js,nodejs,react,tailwind,dart,flutter,git,github,mysql,blender" /></a>
 </div>
 
 <div>
@@ -53,7 +53,8 @@
   <!-- Scientific & Advanced -->
   <img src="https://img.shields.io/badge/QuTiP-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sympy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
+
 </div>
 
 
