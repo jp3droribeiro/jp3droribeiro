@@ -9,11 +9,14 @@
   <img src="https://github.com/jp3droribeiro/jp3droribeiro/blob/main/lightsaber.svg" width="600" alt="Lightsaber"/>
 </p>
 
-<p align="center">
-  <img src="lightsaber1.gif" width="200" alt="Lightsaber"/>
+<p align="left">
+  <img src="c3posource.gif" width="200" alt="Lightsaber"/>
 </p>
 
 
+<p align="right"
+  <img src="storntrooper.gif" width="200" alt="Lightsaber"/>
+</p>
 
 ---
 
