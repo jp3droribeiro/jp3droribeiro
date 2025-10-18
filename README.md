@@ -6,8 +6,13 @@
 </pre>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Lightsaber Animation" />
+  <svg width="200" height="10" viewBox="0 0 200 10" xmlns="http://www.w3.org/2000/svg">
+    <rect width="200" height="10" rx="5" fill="#00E5FF">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="1s" repeatCount="indefinite" />
+    </rect>
+  </svg>
 </p>
+
 
 
 ---
