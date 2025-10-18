@@ -5,10 +5,6 @@
     Computer Science Student <br/>
 </pre>
 
-<p align="center">
-  <img src="https://github.com/jp3droribeiro/jp3droribeiro/blob/main/lightsaber.svg" width="600" alt="Lightsaber"/>
-</p>
-
 ---
 
 <p>
