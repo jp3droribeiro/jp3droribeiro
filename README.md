@@ -37,19 +37,15 @@
 
 ---
 
-### 🌟 Projetos em Destaque
-
-- 🧬 **Simulação de Circuitos Híbridos Quânticos com QuTiP**
-- 📊 **Dashboards Interativos com Streamlit e Plotly**
-- 🌐 **Aplicações Web Responsivas com HTML, CSS e JS**
-- 📱 **Aplicativos móveis com Flutter + Dart**
-
 - 
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,blender" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,QuTip,Streamlit,dart,flutter,git,github,blender" /></a>
 </div>
 
 ---
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🏅 Conquistas
 
@@ -57,10 +53,10 @@
 
 ---
 
-### 📫 Onde me encontrar
+### Onde me encontrar
 
 <p align="center">
-  <a href="mailto:joaopedroribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jp3droribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://jp3droribeiro.github.io/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
