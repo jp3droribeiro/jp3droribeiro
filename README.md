@@ -8,16 +8,16 @@
 
 ---
 
-### Estatísticas do GitHub
+
 <p align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=jp3droribeiro&show_icons=true&theme=transparent&hide_border=true" 
        alt="Jp's GitHub stats"
-       height="165"/>
+       height="175"/>
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp3droribeiro&layout=compact&theme=transparent&hide_border=true" 
        alt="Top Langs"
-       height="165"/>
+       height="175"/>
 </p>
 
 ---
