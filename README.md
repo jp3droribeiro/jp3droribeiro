@@ -6,7 +6,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/lightsaber.svg" width="600" alt="Lightsaber"/>
+  <img src="https://github.com/jp3droribeiro/jp3droribeiro/blob/main/lightsaber.svg" width="600" alt="Lightsaber"/>
 </p>
 
 
