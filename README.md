@@ -46,7 +46,7 @@
 
 - 
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,streamlit,git,github,qutip" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,blender" /></a>
 </div>
 
 ---
