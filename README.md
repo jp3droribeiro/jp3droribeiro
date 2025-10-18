@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">
+<p>
   <img 
        src="https://github-readme-stats.vercel.app/api?username=jp3droribeiro&show_icons=true&theme=transparent&hide_border=true" 
        alt="Jp's GitHub stats"
