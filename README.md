@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/lightsaber.gif" width="200" alt="Lightsaber"/>
+  <img src="lightsaber1.gif" width="200" alt="Lightsaber"/>
 </p>
 
 
