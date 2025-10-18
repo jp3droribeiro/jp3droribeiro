@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="c3posource.gif" width="200" alt="GIF 1" />
-  <img src="storntrooper.gif" width="200" alt="GIF 2" />
+  
 </p>
 
 
