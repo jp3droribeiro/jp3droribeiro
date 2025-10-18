@@ -39,7 +39,7 @@
 
 - 
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,QuTiP,NumPy,dart,flutter,git,github,blender" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,mysql,blender" /></a>
 </div>
 
 ---
