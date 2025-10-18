@@ -9,15 +9,6 @@
   <img src="https://github.com/jp3droribeiro/jp3droribeiro/blob/main/lightsaber.svg" width="600" alt="Lightsaber"/>
 </p>
 
-<p align="left">
-  <img src="c3posource.gif" width="200" alt="Lightsaber"/>
-</p>
-
-
-<p align="right"
-  <img src="storntrooper.gif" width="200" alt="Lightsaber"/>
-</p>
-
 ---
 
 <p>
@@ -76,6 +67,10 @@
   <a href="mailto:jdutraaraujoribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BW55DgdryTrioQO3ZsD34mw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://jp3droribeiro.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="c3posource.gif" width="200" alt="c3po"/>
 </p>
 
 
