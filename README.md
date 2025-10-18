@@ -1,7 +1,7 @@
 <h1>Hi there i'm João Pedro Ribeiro </h1>
 
 <pre >
-    Flutter & Python Developer <br/>
+    Developer <br/>
     Computer Science Student <br/>
 </pre>
 
@@ -24,7 +24,7 @@
 
 <h2><span style="font-family: 'Courier New', monospace;">Skills and Tools</span></h2>
 
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,mysql,blender" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,mysql,asure,blender" /></a>
 </div>
 
 <div>
@@ -56,17 +56,13 @@
   <img src="https://img.shields.io/badge/Sympy-3B5526?style=for-the-badge&logo=sympy&logoColor=white" />
 </div>
 
----
-
-<h2><span style="font-family: 'Courier New', monospace;">🏅 Badges</span></h2>
-[![Holopin Badges](https://holopin.me/jp3droribeiro)](https://holopin.io/@jp3droribeiro)
 
 ---
 
 <h2><span style="font-family: 'Courier New', monospace;">Contact</span></h2>
 <p align="center">
   <a href="mailto:jdutraaraujoribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jp3droribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BW55DgdryTrioQO3ZsD34mw%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://jp3droribeiro.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
