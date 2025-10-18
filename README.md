@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o João Pedro Ribeiro</h1>
+<h1>Olá, eu sou o João Pedro Ribeiro</h1>
 
 <p align="center">
   💻 Desenvolvedor Flutter & Python <br/>
@@ -8,7 +8,7 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 <p align="center">
   <img 
        src="https://github-readme-stats.vercel.app/api?username=jp3droribeiro&show_icons=true&theme=transparent&hide_border=true" 
@@ -22,7 +22,7 @@
 
 ---
 
-### 🧠 Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -43,6 +43,11 @@
 - 📊 **Dashboards Interativos com Streamlit e Plotly**
 - 🌐 **Aplicações Web Responsivas com HTML, CSS e JS**
 - 📱 **Aplicativos móveis com Flutter + Dart**
+
+- 
+<div align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,streamlit,git,github" /></a>
+</div>
 
 ---
 
