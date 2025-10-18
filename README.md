@@ -23,7 +23,7 @@
 
 <h2><span style="font-family: 'Courier New', monospace;">Skills and Tools</span></h2>
 
-  <a href="#"><img src="https://skillicons.dev/icons?ipython,html,css,js,nodejs,react,tailwind,dart,flutter,git,github,mysql,blender" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?python,html,css,js,nodejs,react,tailwind,dart,flutter,git,github,mysql,blender" /></a>
 </div>
 
 <div>
