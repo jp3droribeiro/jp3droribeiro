@@ -4,13 +4,11 @@
     Developer <br/>
     Computer Science Student <br/>
 </pre>
+
 <p align="center">
-  <svg width="300" height="4" viewBox="0 0 300 4" xmlns="http://www.w3.org/2000/svg">
-    <rect width="300" height="4" rx="2" fill="#00E5FF">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite" />
-    </rect>
-  </svg>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Lightsaber Animation" />
 </p>
+
 
 ---
 
