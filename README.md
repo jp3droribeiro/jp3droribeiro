@@ -1,5 +1,7 @@
 <h1>Hello, I'm João Pedro Ribeiro 👋</h1>
 
+<pre >Olá, eu sou o João Pedro Ribeiro</pre>
+
 <p align="center">
   Flutter & Python Developer <br/>
   Computer Science Student <br/>
