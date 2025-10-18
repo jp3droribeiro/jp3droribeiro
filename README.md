@@ -1,12 +1,10 @@
-<h1>Hello, I'm João Pedro Ribeiro 👋</h1>
+<h1>Hi there i'm João Pedro Ribeiro </h1>
 
-<pre >Olá, eu sou o João Pedro Ribeiro</pre>
+<pre >
+    Flutter & Python Developer <br/>
+    Computer Science Student <br/>
+</pre>
 
-<p align="center">
-  Flutter & Python Developer <br/>
-  Computer Science Student <br/>
-  Passionate about technology, data, and interactive applications
-</p>
 
 ---
 
@@ -14,21 +12,22 @@
   <img 
        src="https://github-readme-stats.vercel.app/api?username=jp3droribeiro&show_icons=true&theme=transparent&hide_border=true" 
        alt="Jp's GitHub stats"
-       height="175"/>
+       height="190"/>
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp3droribeiro&layout=compact&theme=transparent&hide_border=true" 
        alt="Top Langs"
-       height="175"/>
+       height="190"/>
 </p>
 
 ---
 
-###  Skills & Tools
-<div align="center">
+
+<h2><span style="font-family: 'Courier New', monospace;">Skills and Tools</span></h2>
+
   <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,python,dart,flutter,git,github,mysql,blender" /></a>
 </div>
 
-<div align="center"> 
+<div>
   <!-- Data Science -->
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -59,12 +58,12 @@
 
 ---
 
-###  Holopin Badges
+<h2><span style="font-family: 'Courier New', monospace;">🏅 Badges</span></h2>
 [![Holopin Badges](https://holopin.me/jp3droribeiro)](https://holopin.io/@jp3droribeiro)
 
 ---
 
-###  Contact
+<h2><span style="font-family: 'Courier New', monospace;">Contact</span></h2>
 <p align="center">
   <a href="mailto:jdutraaraujoribeiro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jp3droribeiro/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -73,10 +72,5 @@
 
 
 
-<h1><span style="font-family: Consolas, monospace;">Olá, eu sou o João Pedro Ribeiro</span></h1>
-<h2><span style="font-family: 'Courier New', monospace;">Skills and Tools</span></h2>
 
-<h2><span style="font-family: 'Courier New', monospace;">🏅 Badges</span></h2>
-
-<h2><span style="font-family: 'Courier New', monospace;">Contact</span></h2>
 
