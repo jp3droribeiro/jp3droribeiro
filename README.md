@@ -8,8 +8,8 @@
 ---
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=jp3droribeiro&theme=dark&hide_border=true"
-    alt="GitHub Streak"
+    src="https://metrics.lecoq.io/jp3droribeiro?template=classic&languages=1&activity=1&achievements=1&lines=1&repositories=1"
+    alt="GitHub Metrics"
   />
 </p>
 
