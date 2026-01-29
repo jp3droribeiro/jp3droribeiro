@@ -7,16 +7,9 @@
 
 ---
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jp3droribeiro&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
-    height="190"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jp3droribeiro&layout=compact&theme=github_dark&hide_border=true"
-    height="190"
-  />
-</p>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=jp3droribeiro&show_icons=true&theme=github_dark&hide_border=true"
+/>
 
 ---
 
