@@ -6,10 +6,12 @@
 </pre>
 
 ---
-
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=jp3droribeiro&show_icons=true&theme=github_dark&hide_border=true"
-/>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=jp3droribeiro&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
